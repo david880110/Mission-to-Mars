@@ -6,4 +6,7 @@ Build a web application that scrapes various websites for data related to the Mi
 * [Mars Weather from twitter](https://twitter.com/marswxreport?lang=en)
 * [Mars Facts](https://space-facts.com/mars/)
 
+![alt text](https://raw.githubusercontent.com/david880110/Mission-to-Mars/master/Images/news.png)
+![alt text](https://raw.githubusercontent.com/david880110/Mission-to-Mars/master/Images/featured%20img.png)
+![alt text](https://raw.githubusercontent.com/david880110/Mission-to-Mars/master/Images/mars%20weather.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Mission-to-Mars/master/Images/Mars%20Hemispheres.png)
